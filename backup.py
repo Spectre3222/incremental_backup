@@ -8,7 +8,7 @@ import argparse
 SOURCE_FOLDERS = [
     "PATH/TO/FOLDER",
     "PATH/TO/SECOND/FOLDER",
-    "...",
+    "PATH/TO/...",
 ]
 
 # Target folder (Drive mounted?)
